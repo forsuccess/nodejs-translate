@@ -6,3 +6,6 @@ npm install -g nodejs-translate
 
 translator query [单词]
 
+# 示例
+
+![](https://github.com/forsuccess/nodejs-translate/blob/master/fanyi.png)
